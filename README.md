@@ -28,7 +28,7 @@ cargo run
 First, write dependencies on cargo.toml which is manifest file for the projec, (just like manifest.json for node.js.
 
 ```shell
-
+cargo build
 ```
 
 
@@ -37,5 +37,7 @@ First, write dependencies on cargo.toml which is manifest file for the projec, (
 
 ### Reference
 
-* https://www.rust-lang.org/learn/get-started
+* [rust installation guide](https://www.rust-lang.org/learn/get-started)
+* [rust book like dictionary](https://doc.rust-lang.org/book/ch01-01-installation.html)
+* [rustlings for exercise](https://github.com/rust-lang/rustlings/)
 
