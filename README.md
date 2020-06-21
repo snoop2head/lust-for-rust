@@ -43,6 +43,6 @@ cargo build
 ### Personal Study Materials for Rust
 
 * [RustPython Video 1 ](https://www.youtube.com/watch?v=YMmio0JHy_Y) and [RustPython Video 2](https://www.youtube.com/watch?v=nJDY9ASuiLc)
-* [Rust Exercises for beginners](http://exercism.io/rust)
+* [Rust Exercises for beginners](https://exercism.io/tracks/rust)
 * [Rustlings for exercise](https://github.com/rust-lang/rustlings/)
 
