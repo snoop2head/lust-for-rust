@@ -38,6 +38,11 @@ cargo build
 ### Reference
 
 * [rust installation guide](https://www.rust-lang.org/learn/get-started)
-* [rust book like dictionary](https://doc.rust-lang.org/book/ch01-01-installation.html)
-* [rustlings for exercise](https://github.com/rust-lang/rustlings/)
+* [rust book](https://doc.rust-lang.org/book/ch01-01-installation.html)
+
+### Personal Study Materials for Rust
+
+* [RustPython Video 1 ](https://www.youtube.com/watch?v=YMmio0JHy_Y) and [RustPython Video 2](https://www.youtube.com/watch?v=nJDY9ASuiLc)
+* [Rust Exercises for beginners](http://exercism.io/rust)
+* [Rustlings for exercise](https://github.com/rust-lang/rustlings/)
 
