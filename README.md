@@ -57,18 +57,19 @@ rustc hello.rs
 
 ## References
 
-### Personal Study Materials - Best Picks
+### Best Picks for dictionary usage
 
 * [Rust installation guide](https://www.rust-lang.org/learn/get-started)
 * [**Rust Programming Book** | 2018 and thereafter](https://doc.rust-lang.org/book/foreword.html)
   * [**Given code examples**](https://doc.rust-lang.org/rust-by-example/)
 * [Python and Rust 1 to 1 Syntax Comparison | 2018](https://www.youtube.com/watch?v=0Yox95Uxhak)
   * [PDF Slide](https://uc338bc702cd83091b9c4f5f747d.dl.dropboxusercontent.com/cd/0/inline2/A6LKQWH1rxWAXB_8Mjshv10fLpAQ3ZMsM8BqjoQXNm7dbaj4vnSApxZU6FvtOmy4QrvqVPoRsJL7JoXBGNHAgGIcFwmAHQ0X9ACSE3NqEpixhRNuiswD6M3LlvmiFZaF9QHnP1rOz8dOsQgENw0v1k-6zXOYEkYpsGh4Iqa1XECLcMg_mpU4X14_q4OHlhdQjvJExcMpK0R4Lr0rwjNu3A-NHxu5S6olcPvPDdUeSbeApgmNXY4OW2YlluHYHVfS2SEm0lwxVOP8-wYkD_spBkjqP8jXcFgs9uOutcna3VoRCPepY_vkl3HG_xGmM0-7wNPSTOpNycX6EqhXt4cUO_P1/file#)
+* [Rust Trending Github Project](https://github.com/trending/rust)
 
-### Personal Study Materials for Rust - Practice
+### Practice Materials
 * [Rust Exercises for beginners - exercism](https://exercism.io/tracks/rust)
 * [Rustlings for exercise](https://exercism.io/tracks/rust/exercises)
 
-### Personal Study Materials for Rust - Difficult
+### Difficult Materials
 * [RustPython Video 1 ](https://www.youtube.com/watch?v=YMmio0JHy_Y) and [RustPython Video 2](https://www.youtube.com/watch?v=nJDY9ASuiLc)
 * [Rust for python programmers 2015](https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
