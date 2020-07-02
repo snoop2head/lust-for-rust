@@ -55,6 +55,12 @@ rustc hello.rs
 
 
 
+## What I like about Rust
+
+* Error direction given by console log
+
+
+
 ## References
 
 ### Best dictionaries
