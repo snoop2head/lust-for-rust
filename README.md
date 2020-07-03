@@ -26,12 +26,9 @@ cargo build
 
 ### How to run
 
-Run main.rs file with `cargo run`
+Create Directory with `cargo new project_name`
 
-```shell
-cargo --version
-cargo run
-```
+On each directory, run main.rs file with `cargo run`
 
 **or**
 
