@@ -59,8 +59,9 @@ rustc hello.rs
 
 * Error direction given by console log
 * Code is simple compare to the other systemetic programming languages
-* Specific, up-to-date documentation
+* Specific guide: [**Rust Programming Book** | 2018 and thereafter](https://doc.rust-lang.org/book/foreword.html)
 * `cargo doc --open` feature for describing dependencies in the project
+* Package pamagement system `cargo` exists, whereas C or C++ doesn't provide
 
 
 
